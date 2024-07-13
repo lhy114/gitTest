@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cstring>
 #define lc id<<1
 #define rc id<<1|1
 typedef long long ll;
